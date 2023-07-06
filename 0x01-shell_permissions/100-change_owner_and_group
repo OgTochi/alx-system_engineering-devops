@@ -1,2 +1,2 @@
 #!/bin/bash
-chwoni
+chown vincent:staff *
